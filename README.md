@@ -1,8 +1,6 @@
 # Interview-Questions
 
 
-# Interview Questions
-
 [JavaScript](Interview%20Questions%2085d13b83df4a4a4ba771d4d73aaa1346/JavaScript%200bd670cc41be45108974b5470b649c46.md)
 
 [ReactJs](Interview%20Questions%2085d13b83df4a4a4ba771d4d73aaa1346/ReactJs%207fa6a1b5fcf04f6e9a5e8cae305df9ff.md)
