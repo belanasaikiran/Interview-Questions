@@ -9,4 +9,4 @@
 
 [DBMS](Interview%20Questions%2085d13b83df4a4a4ba771d4d73aaa1346/DBMS%20a43c708158004c40ae0f7fba56bff660.md)
 
-[Test Case](Interview%20Questions%2085d13b83df4a4a4ba771d4d73aaa1346/Test%20Case%20cda9560144b94195b0f101c3ad2e27c9.md)
+[Test Case](Interview%20Questions%2085d13b83df4a4a4ba771d4d73aaa1346/TestCase/README.md)
