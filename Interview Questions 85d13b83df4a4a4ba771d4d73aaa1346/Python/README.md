@@ -1,6 +1,7 @@
 Python Challenges:
 
 1. Write a Python program to list only directories, files and all directories, files in a specified path
+(Refer: https://www.w3resource.com/python-exercises/os/index.php)
 
 A) Python Code :
   ```
