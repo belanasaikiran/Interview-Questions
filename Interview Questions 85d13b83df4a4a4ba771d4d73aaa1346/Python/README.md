@@ -27,6 +27,7 @@ All directories and files :
   ```
 
 2. Write a Python program to read a given CSV file as a dictionary
+(refer: https://www.w3resource.com/python-exercises/csv/index.php)
 
 A) Sample Solution:
 
