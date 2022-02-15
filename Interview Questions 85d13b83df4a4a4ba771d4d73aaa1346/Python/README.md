@@ -26,6 +26,9 @@ All directories and files :
 ['dev', 'boot', 'proc', 'sys', 'sbin', 'lib32', 'srv', 'etc', 'tmp', 'libx32', 'mnt', 'bin', 'usr', 'opt', 'root', 'run', 'media', 'var', 'home', 'lib64', 'lib', '.dockerenv', 'trinket', 'get-pip.py', 'bd_build']
   ```
 
+
+
+
 2. Write a Python program to read a given CSV file as a dictionary
 (refer: https://www.w3resource.com/python-exercises/csv/index.php)
 
