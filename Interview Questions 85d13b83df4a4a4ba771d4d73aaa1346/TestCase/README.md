@@ -37,3 +37,9 @@ const FunctionalComponent=()=>{
  
 export default FunctionalComponent;
 ```
+
+
+
+5.  With your knowledge in front-end Web Technologies, Create a Web page similar to the following attached image. You can use any of your favourite frameworks or use plane HTML, CSS and Vannila Js. You can upload the code on repl.it and share us the link.
+
+Refer - https://github.com/mohamadadithya/frontend-mentor-challenges/tree/master/sunnyside-agency-landing-page-main
