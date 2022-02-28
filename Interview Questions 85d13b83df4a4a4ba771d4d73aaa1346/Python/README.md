@@ -108,3 +108,9 @@ ID Department Name
 260 Recruiting
 270 Payroll
 ```
+
+
+3.Python program to find all non repeating characters in the string
+
+A. https://quescol.com/interview-preparation/print-maximum-character-string-python
+
